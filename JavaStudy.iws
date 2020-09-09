@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd02c49-6d67-4078-a8db-fdb2dd425bcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayClone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/bigintegeranddecimal/BingDecimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/bigintegeranddecimal/BingIntegerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudy.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayIrregular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayMultiDimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArraySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayClone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayCopy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaStudy.iws" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudy.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +110,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1dg8iwo507fxMU5zBe7aOboYDEy" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -129,15 +132,15 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.ArrayClone">
+  <component name="RunManager" selected="Application.ArrayIrregular">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayClone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.arrays.ArrayClone" />
+    <configuration name="ArrayEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.arrays.ArrayEqual" />
       <module name="Basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -150,8 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.arrays.ArrayToString" />
+    <configuration name="ArrayFill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.arrays.ArrayFill" />
       <module name="Basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -164,13 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BingDecimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.bigintegeranddecimal.BingDecimalTest" />
+    <configuration name="ArrayIrregular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.arrays.ArrayIrregular" />
       <module name="Basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sircourse.java.basic.bigintegeranddecimal.*" />
+          <option name="PATTERN" value="com.sircourse.java.basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,13 +181,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BingIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.bigintegeranddecimal.BingIntegerTest" />
+    <configuration name="ArrayMultiDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.arrays.ArrayMultiDimension" />
       <module name="Basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sircourse.java.basic.bigintegeranddecimal.*" />
+          <option name="PATTERN" value="com.sircourse.java.basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,13 +195,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.controlprogramprocess.ContinueSample" />
+    <configuration name="ArraySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.arrays.ArraySearch" />
       <module name="Basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sircourse.java.basic.controlprogramprocess.*" />
+          <option name="PATTERN" value="com.sircourse.java.basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,19 +241,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayClone" />
-      <item itemvalue="Application.ArrayToString" />
-      <item itemvalue="Application.BingDecimalTest" />
-      <item itemvalue="Application.BingIntegerTest" />
-      <item itemvalue="Application.ContinueSample" />
+      <item itemvalue="Application.ArraySearch" />
+      <item itemvalue="Application.ArrayFill" />
+      <item itemvalue="Application.ArrayEqual" />
+      <item itemvalue="Application.ArrayMultiDimension" />
+      <item itemvalue="Application.ArrayIrregular" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayClone" />
-        <item itemvalue="Application.ArrayToString" />
-        <item itemvalue="Application.BingDecimalTest" />
-        <item itemvalue="Application.BingIntegerTest" />
-        <item itemvalue="Application.ContinueSample" />
+        <item itemvalue="Application.ArrayIrregular" />
+        <item itemvalue="Application.ArrayMultiDimension" />
+        <item itemvalue="Application.ArrayEqual" />
+        <item itemvalue="Application.ArrayFill" />
+        <item itemvalue="Application.ArraySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597328876878</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="大数值学习代码以及数组toString及数组创建代码提交，数组克隆还有些问题">
+      <created>1597764593208</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597764593208</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -339,7 +349,8 @@
     <MESSAGE value="更改sircourse到gisapartment" />
     <MESSAGE value="循环代码完善" />
     <MESSAGE value="第一次代码提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次代码提交" />
+    <MESSAGE value="大数值学习代码以及数组toString及数组创建代码提交，数组克隆还有些问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="大数值学习代码以及数组toString及数组创建代码提交，数组克隆还有些问题" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -348,71 +359,89 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764344985" />
-    <state x="367" y="0" width="802" height="558" key="CommitChangelistDialog2" timestamp="1597328874391">
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599660603473">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" width="802" height="558" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597328874391" />
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1597764526709">
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599660603473" />
+    <state x="447" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599661056952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599661056952" />
+    <state x="367" y="0" width="802" height="558" key="CommitChangelistDialog2" timestamp="1597764590509">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" width="802" height="558" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764590509" />
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1599662050652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403608" />
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662050652" />
     <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1597764526709">
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1599662050652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403608" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662050652" />
     <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1597764526709">
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1599662050652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403608" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662050652" />
     <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1597764526709">
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1599662050652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403608" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662050652" />
     <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1597764526709">
+    <state width="0" height="0" key="GridCell.Tab.1.bottom" timestamp="1599662050580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403609" />
+    <state width="0" height="0" key="GridCell.Tab.1.bottom/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662050580" />
     <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1597764526709">
+    <state width="0" height="0" key="GridCell.Tab.1.center" timestamp="1599662050580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403609" />
+    <state width="0" height="0" key="GridCell.Tab.1.center/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662050580" />
     <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1597764526709">
+    <state width="0" height="0" key="GridCell.Tab.1.left" timestamp="1599662050580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403609" />
+    <state width="0" height="0" key="GridCell.Tab.1.left/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662050580" />
     <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1597764526709">
+    <state width="0" height="0" key="GridCell.Tab.1.right" timestamp="1599662050580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403609" />
+    <state width="0" height="0" key="GridCell.Tab.1.right/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662050580" />
     <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
     <state x="270" y="0" key="SettingsEditor" timestamp="1597763470860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597763470860" />
     <state x="270" y="56" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597760443465" />
-    <state x="490" y="154" width="561" height="524" key="StructurePopup" timestamp="1597764411254">
+    <state x="490" y="154" width="561" height="524" key="StructurePopup" timestamp="1599660844327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764411254" />
+    <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599660844327" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1597329037840">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597329037840" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597328880517">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597764598938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597328880517" />
-    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597328932343">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764598938" />
+    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599662084891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597328932343" />
+    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662084891" />
+    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764597021" />
     <state x="467" y="144" width="602" height="536" key="find.popup" timestamp="1592835517024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

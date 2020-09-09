@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @author www.gisapartment.com
  * Copyright © www.gisapartment.com
  */
-public class ArrayClone implements Cloneable {
+public class ArrayCopy implements Cloneable {
 	public static void main(String[] args) {
 		// first method
 		int[] a = {1, 2, 3, 4};
@@ -16,10 +16,10 @@ public class ArrayClone implements Cloneable {
 		System.out.println(Arrays.toString(ints));
 		ints = Arrays.copyOf(a, 2);
 		System.out.println(Arrays.toString(ints));
-		ArrayClone[] test1 = new ArrayClone[]{new ArrayClone()};
-		ArrayClone[] arrayClones = Arrays.copyOf(test1, 2);
-		System.out.println(test1 == arrayClones);
-		System.out.println(test1[0] == arrayClones[0]);
+		ArrayCopy[] test1 = new ArrayCopy[]{new ArrayCopy()};
+		ArrayCopy[] arrayCopies = Arrays.copyOf(test1, 2);
+		System.out.println(test1 == arrayCopies);
+		System.out.println(test1[0] == arrayCopies[0]);
 	}
 
 	@Override
