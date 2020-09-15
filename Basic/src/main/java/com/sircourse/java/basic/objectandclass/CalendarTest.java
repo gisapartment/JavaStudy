@@ -8,9 +8,6 @@ import java.time.LocalDate;
  */
 public class CalendarTest {
 
-	private static final String SPACE_TWO = "  ";
-	private static final String SPACE = " ";
-
 	public static void main(String[] args) {
 		LocalDate localDate = LocalDate.now();
 		int dayOfMonth = localDate.getDayOfMonth();
