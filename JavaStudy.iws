@@ -5,7 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd02c49-6d67-4078-a8db-fdb2dd425bcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/objectandclass/CalendarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/Description.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/Description.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/HelloGISApartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/HelloGISApartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/arrays/ArrayCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/arrays/ArrayCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/arrays/ArrayEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayFill.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/arrays/ArrayFill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayIrregular.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/arrays/ArrayIrregular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayMultiDimension.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/arrays/ArrayMultiDimension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/arrays/ArraySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/arrays/ArraySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/arrays/ArrayToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/arrays/ArrayToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/bigintegeranddecimal/BingDecimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/bigintegeranddecimal/BingDecimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/bigintegeranddecimal/BingIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/bigintegeranddecimal/BingIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/controlprogramprocess/BreakSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/controlprogramprocess/BreakSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/controlprogramprocess/ConditionalStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/controlprogramprocess/ConditionalStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/controlprogramprocess/ContinueSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/controlprogramprocess/ContinueSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/controlprogramprocess/DoWhileCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/controlprogramprocess/DoWhileCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/controlprogramprocess/ForCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/controlprogramprocess/ForCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/controlprogramprocess/ForPlusCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/controlprogramprocess/ForPlusCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/controlprogramprocess/WhileCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/controlprogramprocess/WhileCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/inputoutputio/ConsoleInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/inputoutputio/ConsoleInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/inputoutputio/ConsoleOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/inputoutputio/ConsoleOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/objectandclass/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/objectandclass/CalendarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/objectandclass/ParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/objectandclass/ParamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/operator/AssignmentAndOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/operator/AssignmentAndOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/operator/BasicTypeConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/operator/BasicTypeConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/operator/CastTypeConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/operator/CastTypeConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/operator/IncreaseAndDecrease.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/operator/IncreaseAndDecrease.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/operator/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/operator/LogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/operator/RelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/operator/RelationalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/operator/TrinocularOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/operator/TrinocularOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/stringoperator/StringConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/stringoperator/StringConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/stringoperator/StringCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/stringoperator/StringCut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/stringoperator/StringEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/stringoperator/StringEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/stringoperator/StringLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/stringoperator/StringLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/stringoperator/StringNullAndEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/stringoperator/StringNullAndEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/variable/ConstantVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/variable/ConstantVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/variable/GlobalVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/variable/GlobalVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/main/java/com/sircourse/java/basic/variable/LocalVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/main/java/com/gisapartment/java/basic/variable/LocalVariable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaStudy.iws" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudy.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +164,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.CalendarTest">
+  <component name="RunManager" selected="Application.ArrayIrregular">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -134,12 +172,12 @@
       </method>
     </configuration>
     <configuration name="ArrayEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.arrays.ArrayEqual" />
+      <option name="MAIN_CLASS_NAME" value="com.gisapartment.java.basic.arrays.ArrayEqual" />
       <module name="Basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sircourse.java.basic.arrays.*" />
+          <option name="PATTERN" value="com.gisapartment.java.basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +186,12 @@
       </method>
     </configuration>
     <configuration name="ArrayFill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.arrays.ArrayFill" />
+      <option name="MAIN_CLASS_NAME" value="com.gisapartment.java.basic.arrays.ArrayFill" />
       <module name="Basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sircourse.java.basic.arrays.*" />
+          <option name="PATTERN" value="com.gisapartment.java.basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +200,12 @@
       </method>
     </configuration>
     <configuration name="ArrayIrregular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.arrays.ArrayIrregular" />
+      <option name="MAIN_CLASS_NAME" value="com.gisapartment.java.basic.arrays.ArrayIrregular" />
       <module name="Basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sircourse.java.basic.arrays.*" />
+          <option name="PATTERN" value="com.gisapartment.java.basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,13 +213,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayMultiDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.arrays.ArrayMultiDimension" />
+    <configuration name="ArraySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gisapartment.java.basic.arrays.ArraySearch" />
       <module name="Basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sircourse.java.basic.arrays.*" />
+          <option name="PATTERN" value="com.gisapartment.java.basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,13 +227,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sircourse.java.basic.objectandclass.CalendarTest" />
+    <configuration name="ArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gisapartment.java.basic.arrays.ArrayToString" />
       <module name="Basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sircourse.java.basic.objectandclass.*" />
+          <option name="PATTERN" value="com.gisapartment.java.basic.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,19 +273,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayEqual" />
+      <item itemvalue="Application.ArrayToString" />
+      <item itemvalue="Application.ArraySearch" />
       <item itemvalue="Application.ArrayFill" />
+      <item itemvalue="Application.ArrayEqual" />
       <item itemvalue="Application.ArrayIrregular" />
-      <item itemvalue="Application.ArrayMultiDimension" />
-      <item itemvalue="Application.CalendarTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalendarTest" />
         <item itemvalue="Application.ArrayIrregular" />
-        <item itemvalue="Application.ArrayMultiDimension" />
         <item itemvalue="Application.ArrayEqual" />
         <item itemvalue="Application.ArrayFill" />
+        <item itemvalue="Application.ArraySearch" />
+        <item itemvalue="Application.ArrayToString" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +373,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599662108978</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="LocalDate 类测试代码实现">
+      <created>1600182300463</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600182300463</updated>
+    </task>
+    <task id="LOCAL-00010" summary="LocalDate 类测试代码优化">
+      <created>1600182336059</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600182336059</updated>
+    </task>
+    <task id="LOCAL-00011" summary="参数测试代码实现">
+      <created>1600700508359</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600700508359</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -352,7 +411,10 @@
     <MESSAGE value="第一次代码提交" />
     <MESSAGE value="大数值学习代码以及数组toString及数组创建代码提交，数组克隆还有些问题" />
     <MESSAGE value="数组相关代码提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组相关代码提交" />
+    <MESSAGE value="LocalDate 类测试代码实现" />
+    <MESSAGE value="LocalDate 类测试代码优化" />
+    <MESSAGE value="参数测试代码实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="参数测试代码实现" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -361,75 +423,96 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600179020445" />
-    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1597764344985">
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1600698853427">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764344985" />
-    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599660603473">
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600698853427" />
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600784995148">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599660603473" />
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600784995148" />
     <state x="447" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599661056952">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="447" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599661056952" />
-    <state x="367" y="0" width="802" height="558" key="CommitChangelistDialog2" timestamp="1599662106421">
+    <state x="367" y="0" width="802" height="558" key="CommitChangelistDialog2" timestamp="1600700506213">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662106421" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600700506213" />
     <state x="367" y="0" width="802" height="558" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764590509" />
     <state width="427" height="466" key="DebuggerActiveHint" timestamp="1599893295380">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="427" height="466" key="DebuggerActiveHint/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599893295380" />
-    <state width="1493" height="228" key="GridCell.Tab.0.bottom" timestamp="1600181297233">
+    <state x="147" y="0" key="DiffContextDialog" timestamp="1600700487356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="0" key="DiffContextDialog/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600700487356" />
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1601695404829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403608" />
-    <state width="1493" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600181297233" />
+    <state width="1037" height="980" key="GridCell.Tab.0.bottom/0.0.1536.824/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1600788105090" />
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1601695404829" />
     <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="1493" height="228" key="GridCell.Tab.0.center" timestamp="1600181297233">
+    <state width="1493" height="495" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600700592447" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1601695404829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403608" />
-    <state width="1493" height="228" key="GridCell.Tab.0.center/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600181297233" />
+    <state width="1037" height="980" key="GridCell.Tab.0.center/0.0.1536.824/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1600788105090" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1601695404829" />
     <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="1493" height="228" key="GridCell.Tab.0.left" timestamp="1600181297233">
+    <state width="1493" height="495" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600700592447" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1601695404829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403608" />
-    <state width="1493" height="228" key="GridCell.Tab.0.left/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600181297233" />
+    <state width="1037" height="980" key="GridCell.Tab.0.left/0.0.1536.824/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1600788105090" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1601695404829" />
     <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="1493" height="228" key="GridCell.Tab.0.right" timestamp="1600181297233">
+    <state width="1493" height="495" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600700592447" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1601695404829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403608" />
-    <state width="1493" height="228" key="GridCell.Tab.0.right/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600181297233" />
+    <state width="1037" height="980" key="GridCell.Tab.0.right/0.0.1536.824/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1600788105090" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1601695404829" />
     <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="0" height="0" key="GridCell.Tab.1.bottom" timestamp="1600181297165">
+    <state width="1493" height="495" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600700592447" />
+    <state width="1493" height="218" key="GridCell.Tab.1.bottom" timestamp="1601695404829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403609" />
-    <state width="0" height="0" key="GridCell.Tab.1.bottom/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600181297165" />
+    <state width="1037" height="980" key="GridCell.Tab.1.bottom/0.0.1536.824/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1600788105090" />
+    <state width="1493" height="218" key="GridCell.Tab.1.bottom/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1601695404829" />
     <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="0" height="0" key="GridCell.Tab.1.center" timestamp="1600181297165">
+    <state width="1493" height="495" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600700592447" />
+    <state width="1493" height="218" key="GridCell.Tab.1.center" timestamp="1601695404829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403609" />
-    <state width="0" height="0" key="GridCell.Tab.1.center/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600181297165" />
+    <state width="1037" height="980" key="GridCell.Tab.1.center/0.0.1536.824/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1600788105090" />
+    <state width="1493" height="218" key="GridCell.Tab.1.center/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1601695404829" />
     <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="0" height="0" key="GridCell.Tab.1.left" timestamp="1600181297165">
+    <state width="1493" height="495" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600700592447" />
+    <state width="1493" height="218" key="GridCell.Tab.1.left" timestamp="1601695404829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403609" />
-    <state width="0" height="0" key="GridCell.Tab.1.left/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600181297165" />
+    <state width="1037" height="980" key="GridCell.Tab.1.left/0.0.1536.824/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1600788105090" />
+    <state width="1493" height="218" key="GridCell.Tab.1.left/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1601695404829" />
     <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
-    <state width="0" height="0" key="GridCell.Tab.1.right" timestamp="1600181297165">
+    <state width="1493" height="495" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600700592447" />
+    <state width="1493" height="218" key="GridCell.Tab.1.right" timestamp="1601695404829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764403609" />
-    <state width="0" height="0" key="GridCell.Tab.1.right/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600181297165" />
+    <state width="1037" height="980" key="GridCell.Tab.1.right/0.0.1536.824/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1600788105090" />
+    <state width="1493" height="218" key="GridCell.Tab.1.right/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1601695404829" />
     <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764526709" />
+    <state width="1493" height="495" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600700592447" />
     <state x="270" y="0" key="SettingsEditor" timestamp="1597763470860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -440,24 +523,21 @@
     </state>
     <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824/-1080.0.1080.1880/-2160.0.1080.1880@0.0.1536.824" timestamp="1597764411254" />
     <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599660844327" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1597329037840">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="498" height="1018" key="SwitcherDM" timestamp="1600787534609">
+      <screen x="-1080" y="0" width="1080" height="1880" />
     </state>
+    <state width="498" height="1018" key="SwitcherDM/0.0.1536.824/-1080.0.1080.1880@-1080.0.1080.1880" timestamp="1600787534609" />
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597329037840" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599662116332">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600700515146">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662116332" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1600700515146" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764598938" />
     <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599662084891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1599662084891" />
     <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597764597021" />
-    <state x="467" y="144" width="602" height="536" key="find.popup" timestamp="1592835517024">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="467" y="144" width="602" height="536" key="find.popup/0.0.1536.824/-1080.0.1080.1880@0.0.1536.824" timestamp="1592835517024" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597763649021">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
