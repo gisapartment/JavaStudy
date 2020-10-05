@@ -19,9 +19,6 @@ public class CalendarTest {
 		while (localDate1.getMonthValue() == localDate.getMonthValue()) {
 			if (localDate1.getDayOfWeek().getValue() == 1) {
 				System.out.println("");
-				//for (int i = 0; i <= 2-String.valueOf(localDate1.getDayOfMonth()).length(); i++) {
-				//	System.out.print(" ");
-				//}
 				printSpace(String.valueOf(localDate1.getDayOfMonth()).length(), true);
 				System.out.print(localDate1.getDayOfMonth());
 				printSpace(String.valueOf(localDate1.getDayOfMonth()).length(), false);
